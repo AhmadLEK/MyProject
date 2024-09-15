@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "png-clipart-bmw-m3-mini-car-logo-bmw-emblem-trademark.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
